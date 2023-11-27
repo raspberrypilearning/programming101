@@ -1,0 +1,2 @@
+toy = "Robot"
+print(toy)
