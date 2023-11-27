@@ -1,1 +1,2 @@
-date = "2023-11-27"
+date = input("What is today's date (YYYY-MM-DD) ")
+
