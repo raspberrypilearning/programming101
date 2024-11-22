@@ -2,6 +2,8 @@
 
 ![default-project-template](banner.png)
 
+Hosts code editor snippets for use in prog 101 online course
+
 Find the project online at [projects.raspberrypi.org/en/projects/default-project-template](https://projects.raspberrypi.org/en/projects/default-project-template)
 
 ## Resources
