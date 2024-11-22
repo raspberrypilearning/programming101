@@ -1,4 +1,4 @@
-# default-project-template
+# Code Editor snippets for Prog 101 Online Course
 
 ![default-project-template](banner.png)
 
