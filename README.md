@@ -4,6 +4,8 @@
 
 Hosts code editor snippets for use in prog 101 online course
 
+The course content is here [https://github.com/raspberrypilearning/fl-programming-101](https://github.com/raspberrypilearning/fl-programming-101)
+
 Find the project online at [projects.raspberrypi.org/en/projects/default-project-template](https://projects.raspberrypi.org/en/projects/default-project-template)
 
 ## Resources
