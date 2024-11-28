@@ -12,4 +12,4 @@ else:
     # If the user enters something other than "yes" or "no"
     print("Invalid response. Please enter 'yes' or 'no'.")
 
-print("Please wait")
+print("Please wait...")
