@@ -1,3 +1,4 @@
 name: 'Code tracing'
 identifier: 'code-tracing-editor-proof'
 type: 'python'
+build: false
