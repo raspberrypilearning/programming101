@@ -1,3 +1,4 @@
 name: 'commands'
 identifier: 'commands'
 type: 'python'
+build: false
