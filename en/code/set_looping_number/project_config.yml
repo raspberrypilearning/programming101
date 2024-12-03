@@ -1,3 +1,4 @@
 name: 'Set looping number'
 identifier: 'set-looping-number'
 type: 'python'
+build: false
