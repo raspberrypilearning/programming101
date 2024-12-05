@@ -1,3 +1,4 @@
 name: 'Parsons problems'
 identifier: 'parsons-editor-proof'
 type: 'python'
+build: false
