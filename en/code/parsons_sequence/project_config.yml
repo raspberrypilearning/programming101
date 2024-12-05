@@ -1,3 +1,4 @@
 name: 'week1 code level'
 identifier: 'week1-code-level'
 type: 'python'
+build: false
