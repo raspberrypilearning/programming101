@@ -1,3 +1,4 @@
 name: 'Indent error'
 identifier: 'indent-error'
 type: 'python'
+build: false
