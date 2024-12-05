@@ -1,3 +1,4 @@
 name: 'Logic error'
 identifier: 'logic-error'
 type: 'python'
+build: false
