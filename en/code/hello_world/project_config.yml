@@ -1,3 +1,4 @@
 name: 'Hello World'
 identifier: 'hello-world'
 type: 'python'
+build: false
