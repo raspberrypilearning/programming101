@@ -1,3 +1,4 @@
 name: 'If elif else'
 identifier: 'if-elif-else'
 type: 'python'
+build: false
