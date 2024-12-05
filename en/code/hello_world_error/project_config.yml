@@ -1,3 +1,4 @@
 name: 'Hello World Error'
 identifier: 'hello-world-error'
 type: 'python'
+build: false
