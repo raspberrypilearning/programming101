@@ -1,3 +1,4 @@
 name: 'Set looping'
 identifier: 'set-looping'
 type: 'python'
+build: false
