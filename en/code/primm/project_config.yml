@@ -1,3 +1,4 @@
 name: 'PRIMM'
 identifier: 'primm-editor-proof'
 type: 'python'
+build: false
