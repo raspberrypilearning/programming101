@@ -1,3 +1,4 @@
 name: 'Maths problem'
 identifier: 'maths-problem'
 type: 'python'
+build: false
